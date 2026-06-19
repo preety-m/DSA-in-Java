@@ -1,32 +1,97 @@
 # 📘 DSA in Java
 
-Collection of Data Structures and Algorithms problems solved in Java while learning problem solving and preparing for software engineering interviews.
+A collection of Data Structures and Algorithms problems solved in Java while learning problem solving and preparing for software engineering interviews.
 
 ---
 
-## Topics Covered
+## 🚀 Topics Covered
 
-### Java Basics
+### 🔹 Java Basics
 - Factorial
 - Fibonacci
-- Sorting
-- Sum of N Numbers
 - Reverse Number
+- Sum of N Numbers
+- Sorting
 
-### Recursion
+### 🔹 Arrays
+- Linear Search
+- Binary Search
+- Reverse Array
+- Pairs in Array
+- Subarrays
+- Maximum Subarray Sum
+- Trapping Rain Water
+- Buy and Sell Stocks
+- Pivot Rotation
+
+### 🔹 Patterns
+- Butterfly Pattern
+- Pyramid Pattern
+- Hollow Rectangle
+- Diamond Pattern
+- Rhombus Pattern
+
+### 🔹 Recursion
 - Factorial
 - Fibonacci
-- Tiling Problem
 - Sum of N Numbers
+- First Occurrence
+- Last Occurrence
+- Remove Duplicates
+- Tiling Problem
+- Power of N
+- Sorted Array Check
 
 ---
 
-## Language
+## 💻 Language
 
 - Java
 
 ---
 
-## Goal
+## 🎯 Goal
 
-Strengthen problem-solving skills and prepare for coding interviews and software engineering internships.
+- Strengthen problem-solving skills.
+- Build a strong DSA foundation.
+- Prepare for coding interviews.
+- Prepare for Software Engineering internships and placements.
+
+---
+
+## 📈 Learning Journey
+
+Currently learning:
+
+- Arrays
+- Recursion
+- Searching and Sorting
+- Object-Oriented Programming
+- Data Structures and Algorithms in Java
+
+Upcoming topics:
+
+- Strings
+- Bit Manipulation
+- Linked List
+- Stack
+- Queue
+- Trees
+- Binary Search Trees
+- Heap
+- HashMap
+- Graphs
+- Dynamic Programming
+
+---
+
+## 🛠️ Tools Used
+
+- Java
+- VS Code
+- Git
+- GitHub
+
+---
+
+⭐ This repository is continuously updated as I progress through my DSA journey.
